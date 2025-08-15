@@ -163,18 +163,6 @@ qa_data = [
         "answer": "Hello! How can I help you?"
     },
     {
-        "id": "digital_library",
-        "questions": [
-            "internet library",
-            "online library",
-            "other library",
-            "digital library in manakula vinayagar institute of technology , pondicheery",
-            "digital library in mvit pondicheery",
-            "digital library"
-        ],
-        "answer": "Our Digital Library facilitates students and faculty members a modern digital learning approach with technically sophisticated environment to enhance their knowledge through e-journals &  e \u2013 books with unlimited access"
-    },
-    {
         "id": "eee_staff",
         "questions": [
             "aiml mentors",
@@ -346,7 +334,19 @@ qa_data = [
             "library in our clg",
             "library"
         ],
-        "answer": "our collage also have digital library"
+        "answer": "The College Central library has a collection of 17415 books, in different subjects like, Basic Sciences, Engineering & Technology and Management etc., Open access system is followed in the library. All the library transactions are computerized & Bar coded."
+    },
+    {
+        "id": "no of books",
+        "questions": [
+            "no of books in mvit library",
+            "how many books are there in mvit",
+            "how many books are there in mvit library",
+            "tell me the number of books in library",
+            "give me the exact number of books in mvit library",
+            "no of book in mvit library",
+        ],
+        "answer": "The exact no, of books in mvit library is [17415] - this data is based on 2024-25"
     },
     {
         "id": "mech_staff",
@@ -383,7 +383,10 @@ qa_data = [
             "I have some queries",
             "queries form",
             "queries section",
-            "where did i submit my queries"
+            "where did i submit my queries",
+            "complaint form",
+            "complaint rising link",
+            "feedback link"
         ],
         "answer": "You can submit your queries by using the link https://docs.google.com/forms/d/e/1FAIpQLSe5kYktZG884dUGs7As2CxX240i5yq9O4pBoL4n6sJYITlRTA/viewform?usp=sf_link"
     },
@@ -424,7 +427,7 @@ qa_data = [
             "how many seat alloted for cse",
             "cse seats"
         ],
-        "answer": "no of seats for computer science engineering in B.TECH in 2024 is... [240] and in M.TECH is ...[12]"
+        "answer": "no of seats for computer science engineering in B.TECH is... [240] and in M.TECH is ...[12]"
     },
     {
         "id": "seats_for_ece",
@@ -437,7 +440,7 @@ qa_data = [
             "how many seat alloted for ece",
             "ece seats"
         ],
-        "answer": "no of seats for electronics and communication engineering  in B.TECH in 2024 is... [180] and in M.TECH is...[12]"
+        "answer": "no of seats for electronics and communication engineering  in B.TECH is... [180] and in M.TECH is...[12]"
     },
     {
         "id": "seats_for_FT",
@@ -449,7 +452,7 @@ qa_data = [
             "how many seats are there for ft",
             "how many seat alloted for ft"
         ],
-        "answer": "no of seats for food technology  in 2024 is... [60]"
+        "answer": "no of seats for food technology is... [60]"
     },
     {
         "id": "seats_for_Iot",
@@ -461,7 +464,7 @@ qa_data = [
             "how many seats are there for iot",
             "how many seat alloted for iot"
         ],
-        "answer": "no of seats for information of things in 2024 is... [60]"
+        "answer": "no of seats for information of things is... [60]"
     },
     {
         "id": "seats_for_MECH",
@@ -475,7 +478,7 @@ qa_data = [
             "how many seat alloted for mech",
             "mech seats"
         ],
-        "answer": "no of seats for mechanical engineering in 2024 is... [60]"
+        "answer": "no of seats for mechanical engineering is... [60]"
     },
     {
         "id": "seats_for_robotics",
@@ -486,7 +489,7 @@ qa_data = [
             "how many seats are there for RA",
             "how many seat alloted for RA"
         ],
-        "answer": "no of seats for robotics in 2024 is... [60]"
+        "answer": "no of seats for robotics is... [60]"
     },
     {
         "id": "seat_for_aiml",
@@ -499,7 +502,7 @@ qa_data = [
             "seat for aiml in mit",
             "seat for aiml"
         ],
-        "answer": "no of seats for artificial and machine learning in 2024 is... [180]"
+        "answer": "no of seats for artificial and machine learning is... [180]"
     },
     {
         "id": "seat_for_eee",
@@ -513,7 +516,7 @@ qa_data = [
             "how many seat alloted for eee",
             "eee seats"
         ],
-        "answer": "no of seats for electrical and electronics engineering in 2024 is... [60]"
+        "answer": "no of seats for electrical and electronics engineering is... [60]"
     },
     {
         "id": "seat_for_IT",
@@ -526,7 +529,7 @@ qa_data = [
             "how many seat alloted for it",
             "it seats"
         ],
-        "answer": "no of seats for information technology in 2024 is... [120]"
+        "answer": "no of seats for information technology is... [120]"
     },
     {
         "id": "sports",
